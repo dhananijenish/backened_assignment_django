@@ -1,0 +1,16 @@
+venv/*
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+*.sqlite3
+media
+*/migrations
+.vscode/* 
+.idea/*
+.env/*
+.env
+teambuilder-backend
+static/*
